@@ -1,0 +1,30 @@
+  :root {
+      --main-color: #6bb252;
+      --hover-color: #f7a422;
+    }
+ .btn-main {
+      background-color: var(--main-color);
+      color: #fff;
+      border: none;
+    }
+
+    .btn-main:hover {
+      background-color: var(--hover-color);
+      color: #fff;
+    }
+
+    .table thead {
+      background-color: var(--main-color);
+      color: #fff;
+    }
+
+    .cart-img {
+      width: 70px;
+      height: auto;
+    }
+
+    .cart-total {
+      background-color: #f9f9f9;
+      padding: 20px;
+      border-top: 2px solid #ddd;
+    }

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Card One",
+    "image": "images/post-thumbnail-1.jpg",
+    "description": "This is the first card description."
+  },
+  {
+    "title": "Card Two",
+    "image": "images/post-thumbnail-2.jpg",
+    "description": "This is the second card description."
+  },
+  {
+    "title": "Card Three",
+    "image": "images/post-thumbnail-3.jpg",
+    "description": "This is the third card description."
+  }
+]

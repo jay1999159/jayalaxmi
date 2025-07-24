@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Top 10 casual look ideas to dress up your kids",
+    "image": "images/post-thumbnail-1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipi elit. Aliquet eleifend viverra enim tincidunt donec quam. A in arcu, hendrerit neque dolor morbi...",
+    "date": "22 Aug 2021",
+    "category": "tips & tricks"
+  },
+  {
+    "title": "Latest trends of wearing street wears supremely",
+    "image": "images/post-thumbnail-2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipi elit. Aliquet eleifend viverra enim tincidunt donec quam. A in arcu, hendrerit neque dolor morbi...",
+    "date": "25 Aug 2021",
+    "category": "trending"
+  },
+  {
+    "title": "10 Different Types of comfortable clothes ideas for women",
+    "image": "images/post-thumbnail-3.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipi elit. Aliquet eleifend viverra enim tincidunt donec quam. A in arcu, hendrerit neque dolor morbi...",
+    "date": "28 Aug 2025",
+    "category": "inspiration"
+  }
+]
