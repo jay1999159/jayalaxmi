@@ -13,7 +13,7 @@ $(document).ready(function () {
 
   function getrecentblogs() {
     $.ajax({
-      url: '../cards.json',
+      url: 'cards.json',
       type: 'GET',
       dataType: 'json',
       success: function (data) {
@@ -46,7 +46,7 @@ $(document).ready(function () {
 
 function getrecentblogsss() {
   $.ajax({
-    url: '../blogs.json',
+    url: 'blogs.json',
     type: 'GET',
     dataType: 'json',
     success: function (data) {
@@ -92,7 +92,7 @@ function getrecentblogsss() {
 }
 function getBestSellingProducts() {
   $.ajax({
-    url: '../products.json',
+    url: 'products.json',
     type: 'GET',
     dataType: 'json',
     success: function (data) {
@@ -209,7 +209,7 @@ $('.btn-remove-cart').on('click', function (e) {
 
 function getBfeaturedProducts() { 
   $.ajax({
-    url: '../feauredproducts.json',
+    url: 'feauredproducts.json',
     type: 'GET',
     dataType: 'json',
     success: function (data) {
@@ -279,7 +279,7 @@ function getBfeaturedProducts() {
 
 function getcategories() {
   $.ajax({
-    url: '../categories.json',
+    url: 'categories.json',
     type: 'GET',
     dataType: 'json',
     success: function (data) {
